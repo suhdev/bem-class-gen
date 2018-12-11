@@ -1,0 +1,29 @@
+{
+  "name": "bem-class-gen",
+  "version": "1.0.0",
+  "description": "A utility to generate BEM and bootstrap class names with ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhdev/bem-class-gen.git"
+  },
+  "keywords": [
+    "BEM",
+    "bootstrap"
+  ],
+  "author": "Suhail Abood <suhail.abood@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhdev/bem-class-gen/issues"
+  },
+  "homepage": "https://github.com/suhdev/bem-class-gen#readme",
+  "devDependencies": {
+    "@types/jest": "^23.3.10",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.2.2"
+  }
+}
