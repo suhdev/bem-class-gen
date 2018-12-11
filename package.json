@@ -1,6 +1,6 @@
 {
   "name": "bem-class-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility to generate BEM and bootstrap class names with ease",
   "main": "lib/bootstrap.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "BEM",
-    "classnames", 
+    "classnames",
     "bootstrap"
   ],
   "author": "Suhail Abood <suhail.abood@gmail.com>",
